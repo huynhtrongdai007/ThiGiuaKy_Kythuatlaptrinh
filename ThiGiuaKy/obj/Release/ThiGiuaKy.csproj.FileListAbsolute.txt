@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\bin\Release\ThiGiuaKy.exe.config
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\bin\Release\ThiGiuaKy.exe
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\bin\Release\ThiGiuaKy.pdb
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\obj\Release\ThiGiuaKy.exe
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\obj\Release\ThiGiuaKy.pdb

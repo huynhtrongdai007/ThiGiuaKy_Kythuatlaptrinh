@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.exe.config
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.exe
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.pdb
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.exe
+C:\Users\ASUS\Desktop\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.pdb
